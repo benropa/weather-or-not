@@ -13,6 +13,7 @@ This application allows a user to search for a city and retrieve the current wea
 
 ## Installation
 N/A 
+
 ## Usage
 Simply click on the deployed link, type in a city, and click enter.
 
@@ -24,6 +25,5 @@ Ben Ropa
 This project is licensed under the MIT license.
 
 ## Questions
-[github.com/benropa](https://github.com/benropa)
-Questions about this proyect or to report an issue can be sent to:
-benropa@outlook.com. Please especify the name of the proyect in the subject of the email.
+### [github.com/benropa](https://github.com/benropa)
+### benropa@outlook.com
