@@ -13,3 +13,20 @@ var searchHistoryContainer = document.querySelector('#history');
 // adding day.js plugins
 dayjs.extend(window.dayjs_plugin_utc);
 dayjs.extend(window.dayjs_plugin_timezone);
+
+// displaying search history list
+function renderSearchHistory() {
+    searchHistoryContainer.innerHTML = '';
+
+    for (var i = searchHistory.length - 1; i >= 0; i--) {
+        var btn = document.createElement('button');
+        btn.setAttribute('type', 'button');
+        btn.setAttribute('aria-controls', 'today forecast');
+        btn.classList.add('history-btn', 'btn-history');
+
+        btn.setAttribute('data-search', searchHistory[i]);
+        btn.textContent = searchHistory[i];
+        searchHistoryContainer.append(btn);
+      }
+    }
+    
