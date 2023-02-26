@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
   
 ## Description
-This applicaiton allows a user to search for a city and retrieve the current weather report as well as a weather forecast. Below the search bar is a section that lists the user's search history. The user can click on a saved city to view the forecasted weather again.  
+This application allows a user to search for a city and retrieve the current weather report as well as a weather forecast. Below the search bar is a section that lists the user's search history. The user can click on a saved city to view the forecasted weather again.  
 
 ## Table of Contents
   - [Installation](#Installation)
