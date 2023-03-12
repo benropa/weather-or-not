@@ -5,5 +5,5 @@ The goal of this project is to practice making an API call using Javascript. Our
 My current project is very much a work in progress and I will return to make updates. 
 
 ## Questions 
-benropa@outlook.com
-https://github.com/benropa
+### benropa@outlook.com
+### https://github.com/benropa
